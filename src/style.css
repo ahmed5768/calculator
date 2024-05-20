@@ -54,3 +54,8 @@ button{
 .operators{
     color:greenyellow;
 }
+button:hover{
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
